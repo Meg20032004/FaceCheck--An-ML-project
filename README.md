@@ -1,1 +1,1 @@
-# FaceCheck--An-ML-project
+# face_recognition_project
